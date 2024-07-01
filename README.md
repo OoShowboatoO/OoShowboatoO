@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @OoShowboatoO
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning operating system
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? No way.
+- 👋 Hi, I’m Nino Ding
 
 <!---
 OoShowboatoO/OoShowboatoO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
